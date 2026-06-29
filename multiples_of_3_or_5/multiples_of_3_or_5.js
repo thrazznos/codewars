@@ -7,4 +7,5 @@ function solution(number){
                 result += i;
             }
         }
+    return result;
 }
